@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/__shrishtii___" target="blank"><img src="https://img.shields.io/twitter/follow/__shrishtii___?logo=twitter&style=for-the-badge" alt="__shrishtii___" /></a> </p>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNoOTIydXh2eDR2YzN5eWk2NncwbjVoaGxsMGttdWJnOGpjY3FpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="centre" width=500px>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNoOTIydXh2eDR2YzN5eWk2NncwbjVoaGxsMGttdWJnOGpjY3FpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="center" width=500px>
 
 - 🌱 Currently a Web developer also delved into DSA. **React.js**
 
