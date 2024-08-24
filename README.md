@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shrishtii27
+- 👋 Hi, I’m Shrishti
 - 👀 I’m interested in coding with some basketball goals.
 - 🌱 I’m currently learning fullstack web development and DSA.
 - 📫 Reach me through srivastava123.shrishti@gmail.com
