@@ -3,9 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/__shrishtii___" target="blank"><img src="https://img.shields.io/twitter/follow/__shrishtii___?logo=twitter&style=for-the-badge" alt="__shrishtii___" /></a> </p>
 
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTNoOTIydXh2eDR2YzN5eWk2NncwbjVoaGxsMGttdWJnOGpjY3FpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" align="centre" width=500px>
+
 - 🌱 Currently a Web developer also delved into DSA. **React.js**
 
-- 👨‍💻 All of my mini projects are available at [https://github.com/Shrishtii27](https://github.com/Shrishtii27)
+- 👨‍💻 All of my mini projects are available at [https://github.com/Shrishtii27 and https://linktr.ee/Shrishtisri](https://github.com/Shrishtii27 and https://linktr.ee/Shrishtisri)
 
 - 📝 I regularly write articles on [https://dev.to/shrishti_srivastava_](https://dev.to/shrishti_srivastava_)
 
